@@ -36,11 +36,11 @@ A classe [Aluno] é uma das classes filhas que herdam os atributos de [Pessoa], 
 A classe [Professor] é uma das classes filhas que herdam os atributos de [Pessoa], possui [Codigo]
 
 
-### Equipe
+### grupo
 |                                         | Integrante|
 | ------                                  | ------    |
-| Nome                                    | Adriana |
-| Matrícula                               | xxxxxxxx |
+| Nome                                    | Adriana sousa mendes silva |
+| Matrícula                               | 91603356|
 | Curso                                   | Sistemas de informação |
 | Principais responsabilidades no projeto | Projeto total|
 
